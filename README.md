@@ -1,5 +1,4 @@
 ## Hi there 👋
-个人导航页: https://stysqy.top
 
 [![Night-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-stars-1&theme=github_dark_dimmed&show_icons=true)](https://github.com/Night-stars-1)
 
