@@ -1,8 +1,12 @@
 ## Hi there 👋
-
-[![Night-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-stars-1&theme=github_dark_dimmed&show_icons=true)](https://github.com/Night-stars-1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Night-stars-1&theme=github_dark_dimmed&show_icons=true)](https://github.com/Night-stars-1)
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Night-stars-1&theme=transparent&show_icons=true" 
+       alt="GitHub Stats" 
+       style="width: 55%; aspect-ratio: 2 / 1; object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Night-stars-1&layout=compact&theme=transparent&show_icons=true" 
+       alt="Top Languages" 
+       style="width: 42%; aspect-ratio: 2 / 1; object-fit: contain;"/>
+</div>
 <!--
 **Night-stars-1/Night-stars-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
