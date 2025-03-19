@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+
+---
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Night-stars-1&theme=transparent&show_icons=true" 
        alt="GitHub Stats" 
